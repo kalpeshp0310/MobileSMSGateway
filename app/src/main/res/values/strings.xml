@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mobile SMS Gateway</string>
+    <string name="message">Message</string>
+    <string name="mobile_number">Mobile number</string>
+    <string name="count">Count</string>
+    <string name="send">Send</string>
+</resources>
